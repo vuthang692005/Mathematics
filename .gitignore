@@ -9,6 +9,6 @@
 /.vscode/
 *.csproj
 *.sln
-*.xlnx
+*.slnx
 .vsconfig
 
